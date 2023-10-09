@@ -1,0 +1,1 @@
+{"summary":{"types":{"filecontent":1,"filesize":0,"filename":0,"warnings":0,"ignores":0}},"results":[{"filename":"joy","failure_list":[{"type":"filecontent","message":"Potential secret pattern : pwd:rtyuiop46","commits":["142134f5d381d02de4de1b7fadb34f5fbf5e66a0"],"severity":"low"}],"warning_list":[],"ignore_list":[]}]}
